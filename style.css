@@ -1,0 +1,28 @@
+/* */
+
+body{
+	background-color: #B0E0E6; 
+	font-family: Georgia, serif;
+	text-align: center; 
+}
+
+h1{
+	font-family: cursive;
+	font-weight: bolder; 
+	text-align: center;
+}
+
+#container {
+	margin: 50px;
+}
+
+img.link {
+    max-width: 550px;
+    min-width: 500px;
+}
+
+#choices {
+	display:  inline-grid;
+	grid-template-columns: 1fl 1fl;
+	grid-gap: 15px;
+}
